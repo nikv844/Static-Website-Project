@@ -11,6 +11,12 @@ header {
   padding-right: 50px;
   background-color: #4b556a;
   color: white;
+
+  /* Nikhil added */
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
 }
 
 .navigation {
