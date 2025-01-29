@@ -1,3 +1,6 @@
+/* -------------------------------------- */
+/* Idex Page CSS by Singha Shuvojyoti */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -240,18 +243,14 @@ header {
   }
 }
 
+/* -------------------------------------- */
 
 
 
 
 
-/*  */
-/*  */
-/*  */
+/* -------------------------------------- */
 /* Nikhil - Services Page CSS */
-/*  */
-/*  */
-/*  */
 
 .services-body {
   margin: 0;
@@ -350,3 +349,5 @@ header {
   border-radius: 5px;
   margin-top: 10px;
 }
+
+/* -------------------------------------- */
