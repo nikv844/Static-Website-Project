@@ -10,7 +10,7 @@
 
 - **Nikhil -** - 🖥️ *Services Page*  
   - All html and css for services page.
-  - Overlooking the website uniformness and style on all pages. 
+  - Overseeing the website uniformness and style on all pages. 
 
 - **Sadia Rumpa** - 📋 *About Us Page*  
   - All html and css for aboutus page 
